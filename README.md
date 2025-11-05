@@ -6,7 +6,7 @@ Users can sign up, log in, send messages in real time, and update their profile 
 ---
 
 ## 🌐 Live Demo
-👉 [Visit the Live App]([https://chat-app-3iha.onrender.com/login])
+👉 [Visit the Live App](https://chat-app-3iha.onrender.com/login)
 
 ---
 
