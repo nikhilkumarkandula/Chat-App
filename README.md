@@ -88,11 +88,11 @@ The frontend runs on **[http://localhost:5173](http://localhost:5173)**
 
 ---
 
-## 🚀 Features
+## ✨ Key Features
 
-✅ User authentication (Sign Up / Login)
-✅ Real-time chat system
-✅ Profile image upload/update
-✅ Clean and responsive UI
-
----
+- 🔐 User Authentication (JWT-based)
+- 💬 Real-time messaging
+- 🧑‍💼 Profile management (update image)
+- ⚡ Zustand state management
+- 🎨 Tailwind + DaisyUI responsive design
+- 📱 Fully responsive chat UI
